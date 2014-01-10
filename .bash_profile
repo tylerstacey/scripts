@@ -1,6 +1,6 @@
 export TERM="xterm-color"
 # Prompt
-PS1='\[\e[0;32m\]\u@\h\[\e[m\] \[\e[1;34m\]\W\[\e[m\] \[\e[0;32m\]\$\[\e[m\] \[\e[1;37m\]'
+PS1='\[\e[0;32m\]\u@\h\[\e[m\] \[\e[1;34m\]\W\[\e[m\] \[\e[0;34m\]\$\[\e[m\] \[\e[1;37m\]'
 #Colorful LS
 export CLICOLOR=1
 export LSCOLORS=Exfxcxdxbxegedabagacad
